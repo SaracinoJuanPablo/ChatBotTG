@@ -1,0 +1,14 @@
+version: "3.8"
+
+services:
+  bot:
+    build: .
+    env_file:
+      - .env
+    volumes:
+      # Montar data/ como volumen persistente.
+      # CRÍTICO: sin este volumen, los archivos de knowledge y el historial
+      # se pierden cada vez que el contenedor se reinicia.
+      - ./data:/app/data
+    restart: unless-stopped
+    command: python -m src.main

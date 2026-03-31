@@ -1,0 +1,20 @@
+📄 clientes.txt:
+
+CLIENTES ACTIVOS 2026:
+1. Juan
+   - Email: juan@techcorp.com
+   - Proyecto: Desarrollo web e-commerce
+   - Estado: Activo
+
+2. María González - Empresa: SaludPlus  
+   - Email: maria@saludplus.com
+   - Proyecto: App móvil Android/iOS
+   - Estado: En negociación
+
+   - Proyecto: Bot de WhatsApp automático
+   - Estado: Finalizado
+
+INSTRUCCIONES PARA EL BOT:
+- Cuando te pregunten "qué clientes tengo", lista todos los clientes activos
+- Si preguntan por un cliente específico, da todos sus detalles
+- Siempre responde como si fueras el asistente interno de la empresa

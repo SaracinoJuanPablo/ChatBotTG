@@ -1,0 +1,8 @@
+COLOCA AQUÍ TUS ARCHIVOS DE CONOCIMIENTO
+
+Ejemplo de archivos que puedes crear aquí:
+- productos.txt (lista de productos y precios)
+- horarios.txt (horarios de atención)
+- faq.txt (preguntas frecuentes)
+
+El bot leerá automáticamente todos los archivos .txt de esta carpeta.
