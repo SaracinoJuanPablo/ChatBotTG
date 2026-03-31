@@ -4,6 +4,8 @@ ChatBotTG es un bot de Telegram impulsado por inteligencia artificial (LLMs) cuy
 
 El bot es capaz de ejecutar acciones directas sobre archivos persistentes (`.txt`, `.md`, `.xlsx`, `.docx`) directamente desde tu chat de Telegram, transformando la aplicación en tu asistente personal para el manejo de información y tareas de ofimática.
 
+<img width="1408" height="768" alt="Gemini_Generated_Image_plpa8hplpa8hplpa" src="https://github.com/user-attachments/assets/8c6ff68b-1bc8-4490-bcda-e61dd35cd875" />
+
 ---
 
 ## ✨ Características Principales
